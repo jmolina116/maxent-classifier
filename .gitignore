@@ -1,3 +1,4 @@
+*.pyc
 .idea
 
 yelp_reviews.json
